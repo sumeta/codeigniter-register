@@ -1,0 +1,1 @@
+docker run -p 8080:80 -v /Applications/MAMP/htdocs/training:/usr/share/nginx/html -d tpsumeta/nginx-php
